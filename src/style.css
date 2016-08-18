@@ -1,0 +1,21 @@
+.block{
+  border: 1px solid gray;
+  width: 200px;
+  height: 200px;
+  float: left;
+  font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+  font-size: 100px;
+  text-align: center;
+  line-height: 200px;
+
+}
+
+
+
+
+body{
+  width: 650px;
+  height: 650px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
