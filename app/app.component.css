@@ -1,0 +1,15 @@
+.block{
+  border: 1px solid gray;
+  width: 200px;
+  height: 200px;
+  float: left;
+
+}
+
+
+
+app-root.wrapper{
+  width: 600px;
+  height: 600px;
+
+}
